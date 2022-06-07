@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listacursos SYSTEM "ListaCursos.dtd">
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>3429392</dni>
+            <nombre>Mateo</nombre>
+            <apellido>Castaño</apellido>
+            <listaasignaturas>
+                <asignatura codigo="ce921831">
+                    <nombre>software web</nombre>
+                    <profesor>
+                        <nrp>23</nrp>
+                        <nombre>camilo</nombre>
+                        <apellido>gallego</apellido>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>
